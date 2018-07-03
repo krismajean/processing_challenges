@@ -4,5 +4,3 @@ Processing is java-based language that allows for the rapid and beautiful genera
 P5.js is the javascript analog to Processing. 
 
 The following repo stores some of my learnings and experiments with Processing.  
-
-
