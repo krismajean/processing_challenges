@@ -4,3 +4,6 @@ The following repo stores some of my learnings and experiments with Processing.
 
 ## Perlin Noise Terrain Generator
 ![Screenshot Perlin Noise Terrain Generator](https://github.com/krismajean/processing_challenges/blob/master/perlinnoiseterrain.gif)
+
+## Phyllotaxis Simulation
+![Screenshot Phyllotaxis](https://github.com/krismajean/processing_challenges/blob/master/phyllotaxis.gif)
