@@ -1,5 +1,7 @@
 // Code based on Coding Challenge #11 3D Terrain Generation with Perlin Noise in Processing
 // https://www.youtube.com/watch?v=IKB1hWWedMk
+//
+// Added elevation color mapping
 
 int cols, rows;
 int scl = 20;
